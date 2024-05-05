@@ -1,0 +1,107 @@
+.navbar {
+    background: #F0ECF9;
+}
+.head-body{
+    height: 520px;
+    background: #F0ECF9;
+ border-radius: 0px 0px 300px 0px; 
+   
+}
+.img-covid{
+    float: right;
+margin-top: 9%;
+border-radius: 0px 0px 300px 0px;
+}
+@media only screen and (max-width: 700px) {
+    .img-covid{
+        display: none;
+    }
+    
+}
+.button-1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    color:#fff;
+    background:  #6f42c1;
+    border-radius: 25.5px;
+}
+.button-1:hover{
+    background-color: #a182da;
+}
+.para-cov{
+    position: absolute;
+    left: 6%;
+    top: 20%;
+}
+.headtext{
+    margin-top: 150px;
+    /* margin-left: 50px; */
+}
+.heading{
+display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.body-para{
+    display: flex;
+    justify-content: center;
+}
+.bodyimg{
+    display: flex;
+    justify-content: center;
+}
+.body2{
+    display: flex;
+    justify-content: center;
+}
+.body3{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.color{
+    color: #6f42c1;
+    
+}
+ul{
+    list-style: none;
+}
+.text-1{
+    margin-top: 10%;
+}
+
+.img-2{
+    margin-top:6% ;
+}
+.img3{
+    margin-top:6% ;
+}
+.img{
+    height: 220px;
+    width: 220px;
+}
+.mask{
+    margin-top: 7%;
+}
+.prevent{
+    margin-top: 5%;
+}
+#list{
+    margin-top: 10%;
+}
+.lines{
+    list-style: 50px;
+}
+#cards{
+    height: 150px;
+    display: flex;
+    margin:57px;
+    
+}
+#cards2{
+    height: 150px;
+    display: flex;
+    margin:65px;
+}
